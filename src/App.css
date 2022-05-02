@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+.bug{
+  border: 3px solid #aedf78;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.water{
+  border: 3px solid #43ccff;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.grass{
+  border: 3px solid #00ca91;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.fire{
+  border: 3px solid #e95c4d;
 }
-
-.App-link {
-  color: #61dafb;
+.normal{
+  border: 3px solid #a5a5a5;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.poison{
+  border: 3px solid lightseagreen;
+}
+.ground{
+  border: 3px solid chocolate;
+}
+.electric{
+  border: 3px solid darkslateblue;
+}
+.fairy{
+  border: 3px solid pink;
+}
+.fighting{
+  border: 3px solid darkred;
+}
+.psychic{
+  border: 3px solid darkgoldenrod;
+}
+.rock{
+  border: 3px solid darkgray;
+}
+.ghost{
+  border: 3px solid lightseagreen;
 }
