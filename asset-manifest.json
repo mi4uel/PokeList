@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mi4uel/PokeList/static/css/main.af9cb469.css",
+    "main.js": "/mi4uel/PokeList/static/js/main.18bc9175.js",
+    "static/js/787.acf7a9bd.chunk.js": "/mi4uel/PokeList/static/js/787.acf7a9bd.chunk.js",
+    "static/media/loader.gif": "/mi4uel/PokeList/static/media/loader.e537049be18bc04cf4f7.gif",
+    "static/media/pokemon.png": "/mi4uel/PokeList/static/media/pokemon.cb4de56ee6d1f4d81a05.png",
+    "index.html": "/mi4uel/PokeList/index.html",
+    "main.af9cb469.css.map": "/mi4uel/PokeList/static/css/main.af9cb469.css.map",
+    "main.18bc9175.js.map": "/mi4uel/PokeList/static/js/main.18bc9175.js.map",
+    "787.acf7a9bd.chunk.js.map": "/mi4uel/PokeList/static/js/787.acf7a9bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af9cb469.css",
+    "static/js/main.18bc9175.js"
+  ]
+}
